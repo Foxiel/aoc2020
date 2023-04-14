@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "74xUIOCy2BzJVtdNXzAkwWkzCtO8/9GV0YoLIlnF2MMgooV8PeG4GCLzbjgw6/sCoHt+QZJppLBXjcFGH3E9pQ==",
+  "dgSpecHash": "gS6ZSqp0kmYGRvjN9yk/Qvg2pWc8W+Mbsp4Zs9eZX2fDUDf2oa7o4Ul7ETXomSS8Y5VJbnkhfk0r4MwZQ76FRA==",
   "success": true,
-  "projectFilePath": "C:\\Coding\\aoc2020\\Day2\\Day2\\Day2.csproj",
+  "projectFilePath": "C:\\Code\\aoc2020\\Day2\\Day2\\Day2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

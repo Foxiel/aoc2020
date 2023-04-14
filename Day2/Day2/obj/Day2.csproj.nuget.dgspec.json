@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding\\aoc2020\\Day2\\Day2\\Day2.csproj": {}
+    "C:\\Code\\aoc2020\\Day2\\Day2\\Day2.csproj": {}
   },
   "projects": {
-    "C:\\Coding\\aoc2020\\Day2\\Day2\\Day2.csproj": {
+    "C:\\Code\\aoc2020\\Day2\\Day2\\Day2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding\\aoc2020\\Day2\\Day2\\Day2.csproj",
+        "projectUniqueName": "C:\\Code\\aoc2020\\Day2\\Day2\\Day2.csproj",
         "projectName": "Day2",
-        "projectPath": "C:\\Coding\\aoc2020\\Day2\\Day2\\Day2.csproj",
-        "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding\\aoc2020\\Day2\\Day2\\obj\\",
+        "projectPath": "C:\\Code\\aoc2020\\Day2\\Day2\\Day2.csproj",
+        "packagesPath": "C:\\Users\\fabia_offgmuv\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\aoc2020\\Day2\\Day2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fabia_offgmuv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

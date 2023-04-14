@@ -2,9 +2,11 @@
 
 int valid = 0;
 
-foreach(string line in lines){
-    
+foreach(string line in lines)
+{
+    line.Split();
 }
+Console.WriteLine("Done");
 
 
 
